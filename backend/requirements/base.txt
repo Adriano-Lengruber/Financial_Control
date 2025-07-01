@@ -18,6 +18,9 @@ dj-database-url==2.1.0
 # API Documentation
 drf-spectacular==0.27.0
 
+# Filtering
+django-filter==23.5
+
 # Validation
 django-extensions==3.2.3
 
